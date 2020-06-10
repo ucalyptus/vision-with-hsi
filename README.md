@@ -25,3 +25,5 @@ print(data_train.__len__())
 ## Wrap it around a Torch Dataloader
 train_loader = torch.utils.data.DataLoader(data_train,batch_size=16,shuffle=True, num_workers=2)
 ```
+# Issues
+Feel free to open an issue for both Bug reporting and Feature Requests.
