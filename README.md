@@ -1,5 +1,5 @@
 # vision-with-hsi
-Rebuilt pytorch wheels with Indian Pines and other HSI dataset support.
+Rebuilt torchvision wheels with Indian Pines Dataset and other Hyperspectral Dataset support(upcoming).
 
 # Installation
 
